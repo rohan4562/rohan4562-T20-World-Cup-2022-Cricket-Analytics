@@ -44,7 +44,7 @@ Key steps included:
   - Bar charts of top performers
   - Final playing XI selection logic
 
-![Dashboard Preview](Dashboard View.pdf)
+![Dashboard Preview](DashboardView.pdf)
 
 ---
 
